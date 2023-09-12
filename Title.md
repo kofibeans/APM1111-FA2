@@ -17,8 +17,7 @@ and 3.51 are clear and in good formatting.
 Prove that
 $\Sigma_{j=1}^N (X_j-1)^2 = \Sigma_{j=1}^N X_j^2-2\Sigma_{j=1}^N X_j+N$
 $$
-\begin{aligned}
-\text{LHS} &= \Sigma_{j=1}^N (X_j-1)^2 \\
+\text{LHS} = \Sigma_{j=1}^N (X_j-1)^2 \\
 &= \Sigma_{j=1}^N (X_j^2-2X_j+1) \\
 &= \Sigma_{j=1}^N X_j^2-\Sigma_{j=1}^N2X_j+\Sigma_{j=1}^N \\
 &= \Sigma_{j=1}^N X_j^2-2(\Sigma_{j=1}^N)X_j+N \\
