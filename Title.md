@@ -27,7 +27,6 @@ $$
 &=\text{RHS} \square
 \end{aligned}
 $$
-```
 
 $$
 \text{LHS} = \Sigma_{j=1}^N (X_j-1)^2 \\
